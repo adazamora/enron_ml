@@ -1,0 +1,12 @@
+ File poi_id runs and generates the PLK files asked to do. 
+ 
+ I also created several other files which contain the functions I used on my data analysis
+ 
+ These files are: 
+ preliminar_analysis.py
+ outliers_analysis.py
+ new_features.py
+ feature_selection.py
+ ml_classifiers.py
+ 
+ I used a Jupyter notebook to do the data analysis and report my results. This file is called ml_project.

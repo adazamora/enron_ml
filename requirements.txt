@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+pickleshare=0.7.4=py27_0
+matplotlib=2.0.2=np113py27_0
+numpy=1.13.3=py27hfef472a_2
+scikit-learn=0.19.1=py27he00e316_0
