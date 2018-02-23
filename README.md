@@ -22,7 +22,15 @@ conda create --name <env> --file requirements.txt
 
 ## Files
 
-The Jupyter notebook contains all the data analysis, while the .py files contain the code I used for the data analysis.
+I used a Jupyter notebook to do the data analysis and report my results. This file is called ml_project.
+
+The functions I use in ml_project are in the following files:
+- preliminar_analysis.py
+- outliers_analysis.py
+- new_features.py
+- feature_selection.py
+- ml_classifiers.py
+ 
 
 ## Data
 
